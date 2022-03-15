@@ -1,7 +1,7 @@
 ---
 title: DIVA MUSICA
 subtitle: Canciones en formato Power-Pop
-image: /img/home-jumbotron.jpg
+image: img/diva-2.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
