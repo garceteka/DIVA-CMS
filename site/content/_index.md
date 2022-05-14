@@ -1,7 +1,7 @@
 ---
 title: D I V A
-subtitle: Canciones en formato Power-Pop
-image: img/diva-2.jpg
+subtitle: Bienvenidos
+image: img/diva.png
 blurb:
   heading: Que es DIVA?
   text: >
